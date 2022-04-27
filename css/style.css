@@ -99,16 +99,13 @@ header nav a:hover {
 }
 
 header .social-links {
-    flex: 1;
+    flex: 0.1;
     align-self: flex-start;
-    display: flex;
-    justify-content: center;
-    gap: 20px;
-    flex-wrap: wrap;
     margin-top: 10px;
 }
 
 .social-links i {
+    transform: rotate(45deg);
     font-size: 1.3em;
     color: white;
     cursor: pointer;
@@ -116,7 +113,7 @@ header .social-links {
 }
 
 .social-links i:hover {
-    transform: translateY(-2px);
+    transform: scale(1.2);
 }
 
 
