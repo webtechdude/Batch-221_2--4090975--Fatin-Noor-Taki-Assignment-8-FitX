@@ -1,5 +1,5 @@
 
-# FitX - A static gym site template (at the moment)
+# [FitX - A static gym site template (at the moment)](https://fitx-taki.netlify.app/)
 
 This is a gym site I made for the very first time,
 I'll be learning JavaScript and Backend and will be update the project on the way.
