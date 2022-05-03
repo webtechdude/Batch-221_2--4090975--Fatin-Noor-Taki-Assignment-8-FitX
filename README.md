@@ -3,16 +3,16 @@
 
 Made this webpage for my course assignment with pure HTML, CSS and a bit JavaScript
 
-> ## Screenshots
+> ## Screenshots 📸
 
 ![App Screenshot](https://i.ibb.co/vV91SPH/Screen-Shot-2022-04-27-at-22-45-44.png)
 
 
-## Optimizations
+> ## Optimizations 🌟
 ⭐Netlify optimized
 ![https://netlify.app](https://i.ibb.co/fFk4PFd/image.png)
 
-## Features
+> ## Features 🧰
 
 - Fully Responsive
 - Attractive Design
@@ -22,7 +22,7 @@ Made this webpage for my course assignment with pure HTML, CSS and a bit JavaScr
 
 ![https://social-taki.netlify.app](https://i.ibb.co/gvH2XGq/logo.png)
 
-## Color Reference
+> ## Color Reference 🖌️
 
 | Color             | Hex                                                                |
 | ----------------- | ------------------------------------------------------------------ |
@@ -38,7 +38,7 @@ Made this webpage for my course assignment with pure HTML, CSS and a bit JavaScr
 | --sunglow | ![#ffcc33](https://via.placeholder.com/10/ffcc33?text=+) #ffcc33  |
 
 
-## Feedback
+## Feedback 📫
 
 If you have any feedback, please reach out to us at takenolove13579@gmail.com
 
